@@ -38,7 +38,7 @@ public class PublicTests {
         inputList.add(new SDPair(60, 20));
         inputList.add(new SDPair(30, 50));
         inputList.add(new SDPair(70, 10));
-        assertEquals(4, Halloween.bottleCount(inputList));
+        assertEquals(3, Halloween.bottleCount(inputList));
         assertEquals(0, Halloween.highPoint(inputList));
     }
 
