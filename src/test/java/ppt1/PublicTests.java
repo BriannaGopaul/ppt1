@@ -33,7 +33,7 @@ public class PublicTests {
     }
 
     @Test
-    void test_listOfThree1() {
+    public void test_listOfThree1() {
         ArrayList<SDPair> inputList = new ArrayList<>();
         inputList.add(new SDPair(60, 20));
         inputList.add(new SDPair(30, 50));
@@ -43,7 +43,7 @@ public class PublicTests {
     }
 
     @Test
-    void test_listOfThree2() {
+    public void test_listOfThree2() {
         ArrayList<SDPair> inputList = new ArrayList<>();
         inputList.add(new SDPair(60, 55));
         inputList.add(new SDPair(30, 50));
@@ -53,7 +53,7 @@ public class PublicTests {
     }
 
     @Test
-    void test_signOfFour() {
+    public void test_signOfFour() {
         ArrayList<SDPair> inputList = new ArrayList<>();
         inputList.add(new SDPair(60, 40));
         inputList.add(new SDPair(30, 50));
