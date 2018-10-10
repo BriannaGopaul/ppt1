@@ -7,7 +7,7 @@ Students visit different establishments on Broadway, and after an evening of muc
 
 If **every pair of students** that meet on the way back to University Avenue shares a bottle of kombucha, how many bottles are consumed on the way home? Who consumes the most? Students share drinks only if they meet on the way. Leaving the same location on Broadway or sharing an apartment do not count as a meeting on the way back.
 
-You are given a list of source-destination pairs (`SDPair`) where the source is the location on Broadway and the destination is the apartment number on University Avenue. Each source-destination pair corresponds to one student's path.
+You are given a list of source-destination pairs (`SDPair`) where the source is the location on Broadway and the destination is the apartment number on University Avenue. Each source-destination pair corresponds to one student's path, which is essentially the straight line from source to destination. Further, the ordering of buildings is identical on the two streets/roads. (You can essentially think of two roads as two number lines.)
 
 You will need to implement two methods: 
 1. `Halloween.bottleCount()` that returns the number of bottles consumed;
