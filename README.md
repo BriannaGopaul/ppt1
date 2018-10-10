@@ -9,6 +9,8 @@ If **every pair of students** that meet on the way back to University Avenue sha
 
 You are given a list of source-destination pairs (`SDPair`) where the source is the location on Broadway and the destination is the apartment number on University Avenue. Each source-destination pair corresponds to one student's path, which is essentially the straight line from source to destination. Further, the ordering of buildings is identical on the two streets/roads. (You can essentially think of two roads as two number lines.)
 
+![An `SDPair`](img/ppt1.png)
+
 You will need to implement two methods: 
 1. `Halloween.bottleCount()` that returns the number of bottles consumed;
 2. `Halloween.highPoint()` that returns the index in the list that corresponds to the student that consumes the maximum amount of liquids on the way home.
