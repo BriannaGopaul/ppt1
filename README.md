@@ -52,16 +52,16 @@ By submitting your work to Github you agree to the following:
 
 * **Can I consult Java documentation and other Internet-based sources?**
 
-Yes, you can. The point of this test is not to demonstrate mastery over syntax but that you can solve a problem in a reasonable amount of time with reasonable resources.
+    Yes, you can. The point of this test is not to demonstrate mastery over syntax but that you can solve a problem in a    reasonable amount of time with reasonable resources.
 
-*If you find useful information online outside the official Java documentation and the course material, you must cite the source. You should do so by adding comments in your source code.*
+    *If you find useful information online outside the official Java documentation and the course material, you must cite the source. You should do so by adding comments in your source code.*
 
-Naturally you are expected to adhere to all of the course and UBC policies on academic integrity.
+    Naturally you are expected to adhere to all of the course and UBC policies on academic integrity.
 
 * **Isn't one hour too short to produce a working implementation?**
 
-The questions are straightforward, and these are not very different from what one might sometimes encounter on a job interview (for example). The difference is that you get less time during an interview (10-15 minutes) with no access to additional resources. So the time allotted is reasonable in that regard and I am expecting that everyone will be able to clear this bar. The goal is that it is possible to say, at a minimal level, what everyone who completes this course can achieve.
+    The questions are straightforward, and these are not very different from what one might sometimes encounter on a job interview (for example). The difference is that you get less time during an interview (10-15 minutes) with no access to additional resources. So the time allotted is reasonable in that regard and I am expecting that everyone will be able to clear this bar. The goal is that it is possible to say, at a minimal level, what everyone who completes this course can achieve.
 
 * **Why am I not guaranteed full credit if my implementation passes all the provided tests?**
 
-It is easy to develop an implementation that passes the provided tests and not much else. A good-faith implementation that passes all the provided tests is very likely to pass other tests too.
+    It is easy to develop an implementation that passes the provided tests and not much else. A good-faith implementation that passes all the provided tests is very likely to pass other tests too.
