@@ -5,6 +5,7 @@ import java.util.List;
 public class Halloween {
 
     /**
+     * test
      * Returns the total number of student meetings that happen when students go
      * from a source to a destination. All sources are on the same street.
      * All destinations are on the same street, but different from the source street.
